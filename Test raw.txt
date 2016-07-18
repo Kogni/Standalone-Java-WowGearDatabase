@@ -1,0 +1,620 @@
+<wowitem>
+  <arcane_resist>0</arcane_resist>
+  <armor>97</armor>
+  <binds>1</binds>
+  <block>0</block>
+  <buyprice>34338</buyprice>
+  <charges1>0</charges1>
+  <charges2>0</charges2>
+  <charges3>0</charges3>
+  <classes>32767</classes>
+  <common_mob>16524</common_mob>
+  <common_percent>14.32</common_percent>
+  <depreciated>0</depreciated>
+  <description></description>
+  <display_html>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;Drape of the Dark Reavers&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Binds when picked up&lt;br /&gt;
+Back&lt;span class=&quot;wowrttxt&quot;&gt;Cloth&lt;/span&gt;&lt;br /&gt;
+97 Armor&lt;br /&gt;
++24 Agility&lt;br /&gt;
++21 Stamina&lt;br /&gt;
+Requires&amp;nbsp;Level&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Equip: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&quot; class=&quot;itemeffectlink&quot;&gt;Increases attack power by 34.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Equip: Improves hit rating by 17.&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;Item display is courtesy &lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;.&lt;/span&gt;&lt;/div&gt;</display_html>
+  <display_html_deDE>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;Tuch der SchattenhÃ¤scher&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Wird beim Aufheben gebunden&lt;br /&gt;
+RÃ¼cken&lt;span class=&quot;wowrttxt&quot;&gt;Stoff&lt;/span&gt;&lt;br /&gt;
+97 RÃ¼stung&lt;br /&gt;
++24 Beweglichkeit&lt;br /&gt;
++21 Ausdauer&lt;br /&gt;
+Benotigt&amp;nbsp;Stufe&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Anlegen: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=deDE&quot; class=&quot;itemeffectlink&quot;&gt;ErhÃ¶ht die Angriffskraft um 34.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Anlegen: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_deDE>
+  <display_html_esES>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;MantÃ³n de los saqueadores oscuros&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+UnknownSlot#16&lt;span class=&quot;wowrttxt&quot;&gt;Tela&lt;/span&gt;&lt;br /&gt;
+97 &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=esES&quot; class=&quot;itemeffectlink&quot;&gt;+34 Attack Power.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_esES>
+  <display_html_frFR>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;DrapÃ© des sombres saccageurs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+LiÃ© quand ramassÃ©&lt;br /&gt;
+Dos&lt;span class=&quot;wowrttxt&quot;&gt;Tissu&lt;/span&gt;&lt;br /&gt;
+97 Armure&lt;br /&gt;
++24 AgilitÃ©&lt;br /&gt;
++21 Endurance&lt;br /&gt;
+Niveau&amp;nbsp;requis&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;EquipÃ©: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=frFR&quot; class=&quot;itemeffectlink&quot;&gt;Augmente de 34 la puissance d'attaque.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;EquipÃ©: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_frFR>
+  <display_html_koKR>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;ê²?ì??ì?½í??ì??ì?? ì?¸í?¬&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+í??ë?? ì?? ê·?ì??&lt;br /&gt;
+ë?±&lt;span class=&quot;wowrttxt&quot;&gt;ì²?&lt;/span&gt;&lt;br /&gt;
+97 ë°©ì?´ë??&lt;br /&gt;
+ë¯¼ì²©ì?± +24&lt;br /&gt;
+ì²´ë ¥ +21&lt;br /&gt;
+ìµ?ì?? ì??êµ¬ ë ?ë²¨ 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;ì°©ì?© í?¨ê³¼: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=koKR&quot; class=&quot;itemeffectlink&quot;&gt;ì ?í?¬ë ¥ì?´ 34ë§?í?¼ ì¦?ê°?í?©ë??ë?¤.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;ì°©ì?© í?¨ê³¼: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_koKR>
+  <display_html_zhCN>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;é»?æ??æ? å¤ºè??æ??ç¯·&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+æ?¾å??å??ç»?å®?&lt;br /&gt;
+è??é?¨&lt;span class=&quot;wowrttxt&quot;&gt;å¸?ç?²&lt;/span&gt;&lt;br /&gt;
+97 æ?¤ç?²&lt;br /&gt;
++24 æ??æ?·&lt;br /&gt;
++21 è??å??&lt;br /&gt;
+é??è¦?ç­?çº§ 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å¤?ï¼?&lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=zhCN&quot; class=&quot;itemeffectlink&quot;&gt;+34 æ?»å?»å¼ºåº¦ã??&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å¤?ï¼?&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_zhCN>
+  <display_html_zhTW>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;é»?æ??å?«å¥ªè??æ?«æ°?&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+æ?¾å??å¾?ç¶?å®?&lt;br /&gt;
+è??é?¨&lt;span class=&quot;wowrttxt&quot;&gt;å¸?ç?²&lt;/span&gt;&lt;br /&gt;
+97 è­·ç?²&lt;br /&gt;
++24 æ??æ?·&lt;br /&gt;
++21 è??å??&lt;br /&gt;
+é??è¦?ç­?ç´? 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å??ï¼?&lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=zhTW&quot; class=&quot;itemeffectlink&quot;&gt;+34 æ?»æ??å¼·åº¦ã??&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å??ï¼?&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_zhTW>
+  <displayinfo>43488</displayinfo>
+  <dmg_high>0</dmg_high>
+  <dmg_high2>0</dmg_high2>
+  <dmg_high3></dmg_high3>
+  <dmg_low>0</dmg_low>
+  <dmg_low2>0</dmg_low2>
+  <dmg_low3></dmg_low3>
+  <dmg_resist>0</dmg_resist>
+  <dmg_resist2>0</dmg_resist2>
+  <dmg_resist3></dmg_resist3>
+  <entered>2009-04-15 08:37:43</entered>
+  <fire_resist>0</fire_resist>
+  <first>0</first>
+  <frost_resist>0</frost_resist>
+  <gemid>0</gemid>
+  <holy_resist>0</holy_resist>
+  <icon>/images/icons/INV_Misc_Cape_10.png</icon>
+  <id>28672</id>
+  <image>darkdrape.jpg</image>
+  <iscrafted>0</iscrafted>
+  <ispvpvendor>0</ispvpvendor>
+  <isqfodder>0</isqfodder>
+  <isquested>0</isquested>
+  <israid>1</israid>
+  <isstatic>1</isstatic>
+  <isvendor>0</isvendor>
+  <isworld>0</isworld>
+  <itemclass>4</itemclass>
+  <itemid>28672</itemid>
+  <itemsubclass>1</itemsubclass>
+  <level>115</level>
+  <median_auc_price>0</median_auc_price>
+  <minlevel>70</minlevel>
+  <name1>Drape of the Dark Reavers</name1>
+  <name2></name2>
+  <name3></name3>
+  <name4></name4>
+  <nature_resist>0</nature_resist>
+  <newest>1</newest>
+  <notes></notes>
+  <opened>0</opened>
+  <quality>4</quality>
+  <races>-1</races>
+  <randomsuf>0</randomsuf>
+  <randprop>0</randprop>
+  <recskill_amount>0</recskill_amount>
+  <recskill_skill>0</recskill_skill>
+  <req_spell>0</req_spell>
+  <reqfaction>0</reqfaction>
+  <reqfactionlvl>0</reqfactionlvl>
+  <reqpvprank>0</reqpvprank>
+  <sellprice>171694</sellprice>
+  <setid>0</setid>
+  <shadow_resist>0</shadow_resist>
+  <slot>16</slot>
+  <slots>0</slots>
+  <socket_1>0</socket_1>
+  <socket_2>0</socket_2>
+  <socket_3>0</socket_3>
+  <socketbonus>0</socketbonus>
+  <source>live</source>
+  <speed>0</speed>
+  <spellact1>1</spellact1>
+  <spellact2>0</spellact2>
+  <spellact3>0</spellact3>
+  <spellcooldown1>-1</spellcooldown1>
+  <spellcooldown2>-1</spellcooldown2>
+  <spellcooldown3>-1</spellcooldown3>
+  <spellcoolgroup1>0</spellcoolgroup1>
+  <spellcoolgroup2>0</spellcoolgroup2>
+  <spellcoolgroup3>0</spellcoolgroup3>
+  <spellcoolgrouptime1>-1</spellcoolgrouptime1>
+  <spellcoolgrouptime2>-1</spellcoolgrouptime2>
+  <spellcoolgrouptime3>-1</spellcoolgrouptime3>
+  <spelleffect1>15806</spelleffect1>
+  <spelleffect2>0</spelleffect2>
+  <spelleffect3>0</spelleffect3>
+  <stacksize>1</stacksize>
+  <startquest>0</startquest>
+  <stat10_stat>0</stat10_stat>
+  <stat10_value>0</stat10_value>
+  <stat1_stat>3</stat1_stat>
+  <stat1_value>24</stat1_value>
+  <stat2_stat>7</stat2_stat>
+  <stat2_value>21</stat2_value>
+  <stat3_stat>31</stat3_stat>
+  <stat3_value>17</stat3_value>
+  <stat4_stat>0</stat4_stat>
+  <stat4_value>0</stat4_value>
+  <stat5_stat>0</stat5_stat>
+  <stat5_value>0</stat5_value>
+  <stat6_stat>0</stat6_stat>
+  <stat6_value>0</stat6_value>
+  <stat7_stat>0</stat7_stat>
+  <stat7_value>0</stat7_value>
+  <stat8_stat>0</stat8_stat>
+  <stat8_value>0</stat8_value>
+  <stat9_stat>0</stat9_stat>
+  <stat9_value>0</stat9_value>
+  <statcount>3</statcount>
+<stats>
+  <agility>24</agility>
+  <arcane_resist>0</arcane_resist>
+  <arcanedmg>0</arcanedmg>
+  <armor>97</armor>
+  <armorpenetration>0</armorpenetration>
+  <armorpenrating>0</armorpenrating>
+  <attack>0</attack>
+  <attackpower>34</attackpower>
+  <block>0</block>
+  <critrating>0</critrating>
+  <defenserating>0</defenserating>
+  <dmg_avg>0</dmg_avg>
+  <dmg_high>0</dmg_high>
+  <dmg_low>0</dmg_low>
+  <dodgerating>0</dodgerating>
+  <dps>0</dps>
+  <ds>0</ds>
+  <expertiserating>0</expertiserating>
+  <fire_resist>0</fire_resist>
+  <firedmg>0</firedmg>
+  <frost_resist>0</frost_resist>
+  <frostdmg>0</frostdmg>
+  <hasterating>0</hasterating>
+  <healing>0</healing>
+  <health>0</health>
+  <healthregen>0</healthregen>
+  <hitrating>17</hitrating>
+  <intellect>0</intellect>
+  <level>115</level>
+  <mana>0</mana>
+  <manaregen>0</manaregen>
+  <meleecritrating>0</meleecritrating>
+  <meleehitrating>0</meleehitrating>
+  <modtargetresist>0</modtargetresist>
+  <nature_resist>0</nature_resist>
+  <naturedmg>0</naturedmg>
+  <parryrating>0</parryrating>
+  <rangeattack>34</rangeattack>
+  <rangecritrating>0</rangecritrating>
+  <rangehitrating>0</rangehitrating>
+  <resiliencerating>0</resiliencerating>
+  <s_blue>0</s_blue>
+  <s_meta>0</s_meta>
+  <s_red>0</s_red>
+  <s_yellow>0</s_yellow>
+  <shadow_resist>0</shadow_resist>
+  <shadowdmg>0</shadowdmg>
+  <shieldblockrating>0</shieldblockrating>
+  <slots>0</slots>
+  <speed>0</speed>
+  <spellcritrating>0</spellcritrating>
+  <spelldmg>0</spelldmg>
+  <spelleffect1>15806</spelleffect1>
+  <spelleffect2>0</spelleffect2>
+  <spelleffect3>0</spelleffect3>
+  <spellhasterating>0</spellhasterating>
+  <spellhitrating>0</spellhitrating>
+  <spellpower>0</spellpower>
+  <spirit>0</spirit>
+  <stamina>21</stamina>
+  <strength>0</strength>
+</stats>  <toolid>0</toolid>
+  <total_drops>1040</total_drops>
+  <total_percent>7.29</total_percent>
+  <unique>0</unique>
+  <unknown_101>0</unknown_101>
+  <unknown_102>7</unknown_102>
+  <unknown_103>0</unknown_103>
+  <unknown_109>0</unknown_109>
+  <unknown_110>0</unknown_110>
+  <unknown_111>0</unknown_111>
+  <unknown_112>0</unknown_112>
+  <unknown_113>0</unknown_113>
+  <unknown_114>0</unknown_114>
+  <unknown_117>0</unknown_117>
+  <unknown_119>0</unknown_119>
+  <unknown_121>0</unknown_121>
+  <unknown_124>300</unknown_124>
+  <unknown_125>-1</unknown_125>
+  <unknown_126></unknown_126>
+  <unknown_128>0</unknown_128>
+  <unknown_129>0</unknown_129>
+  <unknown_130>0</unknown_130>
+  <unknown_33></unknown_33>
+  <unknown_34></unknown_34>
+  <unknown_35></unknown_35>
+  <unknown_36></unknown_36>
+  <unknown_37></unknown_37>
+  <unknown_38></unknown_38>
+  <unknown_39>0</unknown_39>
+  <unknown_40>0</unknown_40>
+  <unknown_50></unknown_50>
+  <unknown_51></unknown_51>
+  <unknown_52></unknown_52>
+  <unknown_53></unknown_53>
+  <unknown_54></unknown_54>
+  <unknown_55></unknown_55>
+  <unknown_63>0</unknown_63>
+  <unknown_8>4096</unknown_8>
+  <unknown_83>0</unknown_83>
+  <unknown_84>0</unknown_84>
+  <unknown_85>0</unknown_85>
+  <unknown_86>-1</unknown_86>
+  <unknown_87>0</unknown_87>
+  <unknown_88>-1</unknown_88>
+  <unknown_89>0</unknown_89>
+  <unknown_90>0</unknown_90>
+  <unknown_91>0</unknown_91>
+  <unknown_92>-1</unknown_92>
+  <unknown_93>0</unknown_93>
+  <unknown_94>-1</unknown_94>
+  <unknown_97>0</unknown_97>
+  <unknown_98>0</unknown_98>
+  <unknown_99>0</unknown_99>
+  <updated>2007-10-04 23:36:55</updated>
+  <version>1</version>
+  <zoneid>127</zoneid>
+</wowitem><?xml version="1.0" encoding="UTF-8"?>
+<wowitem>
+  <arcane_resist>0</arcane_resist>
+  <armor>97</armor>
+  <binds>1</binds>
+  <block>0</block>
+  <buyprice>34338</buyprice>
+  <charges1>0</charges1>
+  <charges2>0</charges2>
+  <charges3>0</charges3>
+  <classes>32767</classes>
+  <common_mob>16524</common_mob>
+  <common_percent>14.32</common_percent>
+  <depreciated>0</depreciated>
+  <description></description>
+  <display_html>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;Drape of the Dark Reavers&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Binds when picked up&lt;br /&gt;
+Back&lt;span class=&quot;wowrttxt&quot;&gt;Cloth&lt;/span&gt;&lt;br /&gt;
+97 Armor&lt;br /&gt;
++24 Agility&lt;br /&gt;
++21 Stamina&lt;br /&gt;
+Requires&amp;nbsp;Level&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Equip: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&quot; class=&quot;itemeffectlink&quot;&gt;Increases attack power by 34.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Equip: Improves hit rating by 17.&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;Item display is courtesy &lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;.&lt;/span&gt;&lt;/div&gt;</display_html>
+  <display_html_deDE>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;Tuch der SchattenhÃ¤scher&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Wird beim Aufheben gebunden&lt;br /&gt;
+RÃ¼cken&lt;span class=&quot;wowrttxt&quot;&gt;Stoff&lt;/span&gt;&lt;br /&gt;
+97 RÃ¼stung&lt;br /&gt;
++24 Beweglichkeit&lt;br /&gt;
++21 Ausdauer&lt;br /&gt;
+Benotigt&amp;nbsp;Stufe&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Anlegen: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=deDE&quot; class=&quot;itemeffectlink&quot;&gt;ErhÃ¶ht die Angriffskraft um 34.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Anlegen: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_deDE>
+  <display_html_esES>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;MantÃ³n de los saqueadores oscuros&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+UnknownSlot#16&lt;span class=&quot;wowrttxt&quot;&gt;Tela&lt;/span&gt;&lt;br /&gt;
+97 &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=esES&quot; class=&quot;itemeffectlink&quot;&gt;+34 Attack Power.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_esES>
+  <display_html_frFR>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;DrapÃ© des sombres saccageurs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+LiÃ© quand ramassÃ©&lt;br /&gt;
+Dos&lt;span class=&quot;wowrttxt&quot;&gt;Tissu&lt;/span&gt;&lt;br /&gt;
+97 Armure&lt;br /&gt;
++24 AgilitÃ©&lt;br /&gt;
++21 Endurance&lt;br /&gt;
+Niveau&amp;nbsp;requis&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;EquipÃ©: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=frFR&quot; class=&quot;itemeffectlink&quot;&gt;Augmente de 34 la puissance d'attaque.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;EquipÃ©: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_frFR>
+  <display_html_koKR>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;ê²?ì??ì?½í??ì??ì?? ì?¸í?¬&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+í??ë?? ì?? ê·?ì??&lt;br /&gt;
+ë?±&lt;span class=&quot;wowrttxt&quot;&gt;ì²?&lt;/span&gt;&lt;br /&gt;
+97 ë°©ì?´ë??&lt;br /&gt;
+ë¯¼ì²©ì?± +24&lt;br /&gt;
+ì²´ë ¥ +21&lt;br /&gt;
+ìµ?ì?? ì??êµ¬ ë ?ë²¨ 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;ì°©ì?© í?¨ê³¼: &lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=koKR&quot; class=&quot;itemeffectlink&quot;&gt;ì ?í?¬ë ¥ì?´ 34ë§?í?¼ ì¦?ê°?í?©ë??ë?¤.&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;ì°©ì?© í?¨ê³¼: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_koKR>
+  <display_html_zhCN>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;é»?æ??æ? å¤ºè??æ??ç¯·&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+æ?¾å??å??ç»?å®?&lt;br /&gt;
+è??é?¨&lt;span class=&quot;wowrttxt&quot;&gt;å¸?ç?²&lt;/span&gt;&lt;br /&gt;
+97 æ?¤ç?²&lt;br /&gt;
++24 æ??æ?·&lt;br /&gt;
++21 è??å??&lt;br /&gt;
+é??è¦?ç­?çº§ 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å¤?ï¼?&lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=zhCN&quot; class=&quot;itemeffectlink&quot;&gt;+34 æ?»å?»å¼ºåº¦ã??&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å¤?ï¼?&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_zhCN>
+  <display_html_zhTW>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;purplename&quot;&gt;é»?æ??å?«å¥ªè??æ?«æ°?&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+æ?¾å??å¾?ç¶?å®?&lt;br /&gt;
+è??é?¨&lt;span class=&quot;wowrttxt&quot;&gt;å¸?ç?²&lt;/span&gt;&lt;br /&gt;
+97 è­·ç?²&lt;br /&gt;
++24 æ??æ?·&lt;br /&gt;
++21 è??å??&lt;br /&gt;
+é??è¦?ç­?ç´? 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å??ï¼?&lt;a href=&quot;http://wow.allakhazam.com/db/spell.html?wspell=15806&amp;amp;locale=zhTW&quot; class=&quot;itemeffectlink&quot;&gt;+34 æ?»æ??å¼·åº¦ã??&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å??ï¼?&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_zhTW>
+  <displayinfo>43488</displayinfo>
+  <dmg_high>0</dmg_high>
+  <dmg_high2>0</dmg_high2>
+  <dmg_high3></dmg_high3>
+  <dmg_low>0</dmg_low>
+  <dmg_low2>0</dmg_low2>
+  <dmg_low3></dmg_low3>
+  <dmg_resist>0</dmg_resist>
+  <dmg_resist2>0</dmg_resist2>
+  <dmg_resist3></dmg_resist3>
+  <entered>2009-04-15 08:37:43</entered>
+  <fire_resist>0</fire_resist>
+  <first>0</first>
+  <frost_resist>0</frost_resist>
+  <gemid>0</gemid>
+  <holy_resist>0</holy_resist>
+  <icon>/images/icons/INV_Misc_Cape_10.png</icon>
+  <id>28672</id>
+  <image>darkdrape.jpg</image>
+  <iscrafted>0</iscrafted>
+  <ispvpvendor>0</ispvpvendor>
+  <isqfodder>0</isqfodder>
+  <isquested>0</isquested>
+  <israid>1</israid>
+  <isstatic>1</isstatic>
+  <isvendor>0</isvendor>
+  <isworld>0</isworld>
+  <itemclass>4</itemclass>
+  <itemid>28672</itemid>
+  <itemsubclass>1</itemsubclass>
+  <level>115</level>
+  <median_auc_price>0</median_auc_price>
+  <minlevel>70</minlevel>
+  <name1>Drape of the Dark Reavers</name1>
+  <name2></name2>
+  <name3></name3>
+  <name4></name4>
+  <nature_resist>0</nature_resist>
+  <newest>1</newest>
+  <notes></notes>
+  <opened>0</opened>
+  <quality>4</quality>
+  <races>-1</races>
+  <randomsuf>0</randomsuf>
+  <randprop>0</randprop>
+  <recskill_amount>0</recskill_amount>
+  <recskill_skill>0</recskill_skill>
+  <req_spell>0</req_spell>
+  <reqfaction>0</reqfaction>
+  <reqfactionlvl>0</reqfactionlvl>
+  <reqpvprank>0</reqpvprank>
+  <sellprice>171694</sellprice>
+  <setid>0</setid>
+  <shadow_resist>0</shadow_resist>
+  <slot>16</slot>
+  <slots>0</slots>
+  <socket_1>0</socket_1>
+  <socket_2>0</socket_2>
+  <socket_3>0</socket_3>
+  <socketbonus>0</socketbonus>
+  <source>live</source>
+  <speed>0</speed>
+  <spellact1>1</spellact1>
+  <spellact2>0</spellact2>
+  <spellact3>0</spellact3>
+  <spellcooldown1>-1</spellcooldown1>
+  <spellcooldown2>-1</spellcooldown2>
+  <spellcooldown3>-1</spellcooldown3>
+  <spellcoolgroup1>0</spellcoolgroup1>
+  <spellcoolgroup2>0</spellcoolgroup2>
+  <spellcoolgroup3>0</spellcoolgroup3>
+  <spellcoolgrouptime1>-1</spellcoolgrouptime1>
+  <spellcoolgrouptime2>-1</spellcoolgrouptime2>
+  <spellcoolgrouptime3>-1</spellcoolgrouptime3>
+  <spelleffect1>15806</spelleffect1>
+  <spelleffect2>0</spelleffect2>
+  <spelleffect3>0</spelleffect3>
+  <stacksize>1</stacksize>
+  <startquest>0</startquest>
+  <stat10_stat>0</stat10_stat>
+  <stat10_value>0</stat10_value>
+  <stat1_stat>3</stat1_stat>
+  <stat1_value>24</stat1_value>
+  <stat2_stat>7</stat2_stat>
+  <stat2_value>21</stat2_value>
+  <stat3_stat>31</stat3_stat>
+  <stat3_value>17</stat3_value>
+  <stat4_stat>0</stat4_stat>
+  <stat4_value>0</stat4_value>
+  <stat5_stat>0</stat5_stat>
+  <stat5_value>0</stat5_value>
+  <stat6_stat>0</stat6_stat>
+  <stat6_value>0</stat6_value>
+  <stat7_stat>0</stat7_stat>
+  <stat7_value>0</stat7_value>
+  <stat8_stat>0</stat8_stat>
+  <stat8_value>0</stat8_value>
+  <stat9_stat>0</stat9_stat>
+  <stat9_value>0</stat9_value>
+  <statcount>3</statcount>
+<stats>
+  <agility>24</agility>
+  <arcane_resist>0</arcane_resist>
+  <arcanedmg>0</arcanedmg>
+  <armor>97</armor>
+  <armorpenetration>0</armorpenetration>
+  <armorpenrating>0</armorpenrating>
+  <attack>0</attack>
+  <attackpower>34</attackpower>
+  <block>0</block>
+  <critrating>0</critrating>
+  <defenserating>0</defenserating>
+  <dmg_avg>0</dmg_avg>
+  <dmg_high>0</dmg_high>
+  <dmg_low>0</dmg_low>
+  <dodgerating>0</dodgerating>
+  <dps>0</dps>
+  <ds>0</ds>
+  <expertiserating>0</expertiserating>
+  <fire_resist>0</fire_resist>
+  <firedmg>0</firedmg>
+  <frost_resist>0</frost_resist>
+  <frostdmg>0</frostdmg>
+  <hasterating>0</hasterating>
+  <healing>0</healing>
+  <health>0</health>
+  <healthregen>0</healthregen>
+  <hitrating>17</hitrating>
+  <intellect>0</intellect>
+  <level>115</level>
+  <mana>0</mana>
+  <manaregen>0</manaregen>
+  <meleecritrating>0</meleecritrating>
+  <meleehitrating>0</meleehitrating>
+  <modtargetresist>0</modtargetresist>
+  <nature_resist>0</nature_resist>
+  <naturedmg>0</naturedmg>
+  <parryrating>0</parryrating>
+  <rangeattack>34</rangeattack>
+  <rangecritrating>0</rangecritrating>
+  <rangehitrating>0</rangehitrating>
+  <resiliencerating>0</resiliencerating>
+  <s_blue>0</s_blue>
+  <s_meta>0</s_meta>
+  <s_red>0</s_red>
+  <s_yellow>0</s_yellow>
+  <shadow_resist>0</shadow_resist>
+  <shadowdmg>0</shadowdmg>
+  <shieldblockrating>0</shieldblockrating>
+  <slots>0</slots>
+  <speed>0</speed>
+  <spellcritrating>0</spellcritrating>
+  <spelldmg>0</spelldmg>
+  <spelleffect1>15806</spelleffect1>
+  <spelleffect2>0</spelleffect2>
+  <spelleffect3>0</spelleffect3>
+  <spellhasterating>0</spellhasterating>
+  <spellhitrating>0</spellhitrating>
+  <spellpower>0</spellpower>
+  <spirit>0</spirit>
+  <stamina>21</stamina>
+  <strength>0</strength>
+</stats>  <toolid>0</toolid>
+  <total_drops>1040</total_drops>
+  <total_percent>7.29</total_percent>
+  <unique>0</unique>
+  <unknown_101>0</unknown_101>
+  <unknown_102>7</unknown_102>
+  <unknown_103>0</unknown_103>
+  <unknown_109>0</unknown_109>
+  <unknown_110>0</unknown_110>
+  <unknown_111>0</unknown_111>
+  <unknown_112>0</unknown_112>
+  <unknown_113>0</unknown_113>
+  <unknown_114>0</unknown_114>
+  <unknown_117>0</unknown_117>
+  <unknown_119>0</unknown_119>
+  <unknown_121>0</unknown_121>
+  <unknown_124>300</unknown_124>
+  <unknown_125>-1</unknown_125>
+  <unknown_126></unknown_126>
+  <unknown_128>0</unknown_128>
+  <unknown_129>0</unknown_129>
+  <unknown_130>0</unknown_130>
+  <unknown_33></unknown_33>
+  <unknown_34></unknown_34>
+  <unknown_35></unknown_35>
+  <unknown_36></unknown_36>
+  <unknown_37></unknown_37>
+  <unknown_38></unknown_38>
+  <unknown_39>0</unknown_39>
+  <unknown_40>0</unknown_40>
+  <unknown_50></unknown_50>
+  <unknown_51></unknown_51>
+  <unknown_52></unknown_52>
+  <unknown_53></unknown_53>
+  <unknown_54></unknown_54>
+  <unknown_55></unknown_55>
+  <unknown_63>0</unknown_63>
+  <unknown_8>4096</unknown_8>
+  <unknown_83>0</unknown_83>
+  <unknown_84>0</unknown_84>
+  <unknown_85>0</unknown_85>
+  <unknown_86>-1</unknown_86>
+  <unknown_87>0</unknown_87>
+  <unknown_88>-1</unknown_88>
+  <unknown_89>0</unknown_89>
+  <unknown_90>0</unknown_90>
+  <unknown_91>0</unknown_91>
+  <unknown_92>-1</unknown_92>
+  <unknown_93>0</unknown_93>
+  <unknown_94>-1</unknown_94>
+  <unknown_97>0</unknown_97>
+  <unknown_98>0</unknown_98>
+  <unknown_99>0</unknown_99>
+  <updated>2007-10-04 23:36:55</updated>
+  <version>1</version>
+  <zoneid>127</zoneid>
+</wowitem><?xml version="1.0" encoding="UTF-8"?>

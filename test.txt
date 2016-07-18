@@ -1,0 +1,54 @@
+Drape of the Dark Reavers
+115
+Cloth
+Back
+PurpleQuality
+Binds when picked up
+false
+70
+false
+97
+21
+0
+0
+24
+0
+0
+0
+0
+17
+34
+0
+0
+0
+0
+0
+0
+0
+null
+0
+0
+0
+0.0
+Death Knight
+false
+Paladin
+false
+Hunter
+false
+Warlock
+false
+Shaman
+false
+Druid
+false
+Rogue
+false
+Warrior
+false
+Mage
+false
+Priest
+false
+null
+<armor>97</armor><binds>1</binds><buyprice>34338</buyprice><classes>32767</classes><common_mob>16524</common_mob><common_percent>14.32</common_percent>liveBack Cloth 97 Armor +24 Agility +21 Stamina Requires Level 70http //wow.allakhazam.com/db/spell.htmlwspell=15806 class=Increases attack power by 34. Improves hit rating by 17. Item display is courtesy wow.allakhazam.com. livePurpleQualityTuch der SchattenhÃ¤scher Wird beim Aufheben gebunden RÃcken Stoff 97 RÃstung +24 Beweglichkeit +21 Ausdauer Benotigt Stufe 70Anlegenhttp //wow.allakhazam.com/db/spell.htmlwspell=15806 amp locale=deDE class=ErhÃ¶ht die Angriffskraft um 34. Anlegen wow.allakhazam.com livePurpleQualityMantÃn de los saqueadores oscurosUnknownSlot#16 Tela 9770http //wow.allakhazam.com/db/spell.htmlwspell=15806 amp locale=esES class=+34 Attack Power.wow.allakhazam.com </display_html_esES><display_html_frFR>livePurpleQualityDrapÃ des sombres saccageurs LiÃ quand ramassÃ Dos Tissu 97 Armure +24 AgilitÃ +21 Endurance Niveau requis 70Ãhttp //wow.allakhazam.com/db/spell.htmlwspell=15806 amp locale=frFR class=Augmente de 34 la puissance d'attaque. Ã wow.allakhazam.com </display_html_frFR><display_html_koKR>livePurpleQuality²½í ¸í¬ íë· ë± ² 97 ë´ë ë¯²± +24 ²´ë ¥ +21¬ ë ë²¨ 70 í¨http //wow.allakhazam.com/db/spell.htmlwspell=15806 amp locale=koKR class= í¬ë ¥´ 34ë§í ¦íëë¤.í¨ wow.allakhazam.com </display_html_koKR><display_html_zhCN>livePurpleQualityé»ææ å¤ºèæç¯· æ¾ååç»å® èé¨ å¸ç² 97 æ¤ç² +24 ææ· +21 èå éè¦ç­çº§ 70è£å¤ïhttp //wow.allakhazam.com/db/spell.htmlwspell=15806 amp locale=zhCN class=+34 æ»å»åºåº¦ã è£å¤ï wow.allakhazam.com </display_html_zhCN><display_html_zhTW>livePurpleQualityé»æå«å¥ªèæ«æ æ¾åå¾ç¶å® èé¨ å¸ç² 97 è­·ç² +24 ææ· +21 èå éè¦ç­ç´ 70è£åïhttp //wow.allakhazam.com/db/spell.htmlwspell=15806 amp locale=zhTW class=+34 æ»æå·åº¦ã è£åï wow.allakhazam.com </display_html_zhTW><displayinfo>43488</displayinfo><dmg_high3></dmg_high3><dmg_low3></dmg_low3><dmg_resist3></dmg_resist3><entered>2009-04-15 08 37 43</entered><first>0</first><icon>/images/icons/INV_Misc_Cape_10.png</icon><id>28672</id><image>darkdrape.jpg</image><israid>1</israid><isstatic>1</isstatic><itemclass>4</itemclass><itemid>28672</itemid><itemsubclass>1</itemsubclass><median_auc_price>0</median_auc_price><minlevel>70</minlevel><name1>Drape of the Dark Reavers</name1><newest>1</newest><quality>4</quality><races>-1</races><sellprice>171694</sellprice><setid>0</setid><slot>16</slot><socket_1>0</socket_1><socket_2>0</socket_2><socket_3>0</socket_3><socketbonus>0</socketbonus><spellact1>1</spellact1><spelleffect1>15806</spelleffect1><stat1_stat>3</stat1_stat><stat1_value>24</stat1_value><stat2_stat>7</stat2_stat><stat2_value>21</stat2_value><stat3_stat>31</stat3_stat><stat3_value>17</stat3_value><statcount>3</statcount><stats><agility>24</agility><arcanedmg>0</arcanedmg><armor>97</armor><attackpower>34</attackpower><hitrating>17</hitrating><level>115</level><rangeattack>34</rangeattack><s_blue>0</s_blue><s_meta>0</s_meta><s_red>0</s_red><s_yellow>0</s_yellow><spelleffect1>15806</spelleffect1><stamina>21</stamina></stats><total_drops>1040</total_drops><total_percent>7.29</total_percent><unknown_101>0</unknown_101><unknown_102>7</unknown_102><unknown_103>0</unknown_103><unknown_109>0</unknown_109><unknown_110>0</unknown_110><unknown_111>0</unknown_111><unknown_112>0</unknown_112><unknown_113>0</unknown_113><unknown_114>0</unknown_114><unknown_117>0</unknown_117><unknown_119>0</unknown_119><unknown_121>0</unknown_121><unknown_124>300</unknown_124><unknown_125>-1</unknown_125><unknown_126></unknown_126><unknown_128>0</unknown_128><unknown_129>0</unknown_129><unknown_130>0</unknown_130><unknown_33></unknown_33><unknown_34></unknown_34><unknown_35></unknown_35><unknown_36></unknown_36><unknown_37></unknown_37><unknown_38></unknown_38><unknown_39>0</unknown_39><unknown_40>0</unknown_40><unknown_50></unknown_50><unknown_51></unknown_51><unknown_52></unknown_52><unknown_53></unknown_53><unknown_54></unknown_54><unknown_55></unknown_55><unknown_63>0</unknown_63><unknown_8>4096</unknown_8><unknown_83>0</unknown_83><unknown_84>0</unknown_84><unknown_85>0</unknown_85><unknown_86>-1</unknown_86><unknown_87>0</unknown_87><unknown_88>-1</unknown_88><unknown_89>0</unknown_89><unknown_90>0</unknown_90><unknown_91>0</unknown_91><unknown_92>-1</unknown_92><unknown_93>0</unknown_93><unknown_94>-1</unknown_94><unknown_97>0</unknown_97><unknown_98>0</unknown_98><unknown_99>0</unknown_99><updated>2007-10-04 23 36 55</updated><version>1</version><zoneid>127</zoneid></> 

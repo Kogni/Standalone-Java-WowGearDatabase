@@ -1,0 +1,303 @@
+<wowitem>
+  <arcane_resist>0</arcane_resist>
+  <armor>0</armor>
+  <binds>2</binds>
+  <block>0</block>
+  <buyprice>62413</buyprice>
+  <charges1>0</charges1>
+  <charges2>0</charges2>
+  <charges3>0</charges3>
+  <classes>-1</classes>
+  <common_mob></common_mob>
+  <common_percent></common_percent>
+  <depreciated>0</depreciated>
+  <description></description>
+  <display_html>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;Felsteel Boomstick&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Binds when equipped&lt;br /&gt;
+Range&lt;span class=&quot;wowrttxt&quot;&gt;Gun&lt;/span&gt;&lt;br /&gt;
+104 -  194 Damage&lt;span class=&quot;wowrttxt&quot;&gt;Speed 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 damage per second)&lt;br /&gt;
++12 Stamina&lt;br /&gt;
+Requires&amp;nbsp;Level&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Equip: Improves critical strike rating by 13.&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;Item display is courtesy &lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;.&lt;/span&gt;&lt;/div&gt;</display_html>
+  <display_html_deDE>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;TeufelsstahlschieÃ?eisen&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+Wird beim Anlegen gebunden&lt;br /&gt;
+Distanz&lt;span class=&quot;wowrttxt&quot;&gt;Schusswaffe&lt;/span&gt;&lt;br /&gt;
+104 -  194 Schaden&lt;span class=&quot;wowrttxt&quot;&gt;Tempo 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 Schaden pro Sekunde)&lt;br /&gt;
++12 Ausdauer&lt;br /&gt;
+Benotigt&amp;nbsp;Stufe&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;Anlegen: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_deDE>
+  <display_html_esES>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;Bocarda de acero vil&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+UnknownSlot#26&lt;span class=&quot;wowrttxt&quot;&gt;Arma de fuego&lt;/span&gt;&lt;br /&gt;
+104 -  194 &lt;span class=&quot;wowrttxt&quot;&gt; 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 )&lt;br /&gt;
+&lt;br /&gt;
+70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_esES>
+  <display_html_frFR>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;Espingole en gangracier&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+LiÃ© quand Ã©quipÃ©&lt;br /&gt;
+A distance&lt;span class=&quot;wowrttxt&quot;&gt;Arme Ã  feu&lt;/span&gt;&lt;br /&gt;
+104 -  194 DÃ©gÃ¢ts&lt;span class=&quot;wowrttxt&quot;&gt;Vitesse 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 DÃ©gÃ¢ts par seconde)&lt;br /&gt;
++12 Endurance&lt;br /&gt;
+Niveau&amp;nbsp;requis&amp;nbsp;70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;EquipÃ©: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_frFR>
+  <display_html_koKR>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;ì§?ì?¥ê°?ì²  ë¶?ì?¤í?±&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+ì°©ì?© ì?? ê·?ì??&lt;br /&gt;
+ì??ê±°ë¦¬ ì?¥ë¹?&lt;span class=&quot;wowrttxt&quot;&gt;ì´?&lt;/span&gt;&lt;br /&gt;
+104 -  194 ê³µê²©ë ¥&lt;span class=&quot;wowrttxt&quot;&gt;ì??ë?? 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 ì´?ë?¹ ê³µê²©ë ¥)&lt;br /&gt;
+ì²´ë ¥ +12&lt;br /&gt;
+ìµ?ì?? ì??êµ¬ ë ?ë²¨ 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;ì°©ì?© í?¨ê³¼: &lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_koKR>
+  <display_html_zhCN>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;é­?é?¢ç?«æ?ª&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+è£?å¤?å??ç»?å®?&lt;br /&gt;
+è¿?ç¨?&lt;span class=&quot;wowrttxt&quot;&gt;æ?ªæ¢°&lt;/span&gt;&lt;br /&gt;
+104 -  194 ä¼¤å®³&lt;span class=&quot;wowrttxt&quot;&gt;é??åº¦ 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 æ¯?ç§?ä¼¤å®³)&lt;br /&gt;
++12 è??å??&lt;br /&gt;
+é??è¦?ç­?çº§ 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å¤?ï¼?&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_zhCN>
+  <display_html_zhTW>&lt;div class=&quot;wowitem wowitemlive&quot;&gt;
+&lt;span class=&quot;iname&quot;&gt;&lt;span class=&quot;bluename&quot;&gt;é­?é?¼ç?«æ§?&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+è£?å??å¾?ç¶?å®?&lt;br /&gt;
+é? ç¨?&lt;span class=&quot;wowrttxt&quot;&gt;æ§?æ¢°&lt;/span&gt;&lt;br /&gt;
+104 -  194 å?·å®³&lt;span class=&quot;wowrttxt&quot;&gt;é??åº¦ 2.40&lt;/span&gt;&lt;br /&gt;
+(62.1 æ¯?ç§?å?·å®³)&lt;br /&gt;
++12 è??å??&lt;br /&gt;
+é??è¦?ç­?ç´? 70&lt;br /&gt;
+&lt;span class=&quot;itemeffectlink&quot;&gt;è£?å??ï¼?&lt;/span&gt;&lt;br /&gt;
+&lt;br/&gt;&lt;span class=&quot;akznotice&quot;&gt;&lt;a href=&quot;http://wow.allakhazam.com/&quot;&gt;wow.allakhazam.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</display_html_zhTW>
+  <displayinfo>43688</displayinfo>
+  <dmg_high>194</dmg_high>
+  <dmg_high2>0</dmg_high2>
+  <dmg_high3>0</dmg_high3>
+  <dmg_low>104</dmg_low>
+  <dmg_low2>0</dmg_low2>
+  <dmg_low3>0</dmg_low3>
+  <dmg_resist>0</dmg_resist>
+  <dmg_resist2>0</dmg_resist2>
+  <dmg_resist3>0</dmg_resist3>
+  <entered>2008-12-03 12:22:58</entered>
+  <fire_resist>0</fire_resist>
+  <first>0</first>
+  <frost_resist>0</frost_resist>
+  <gemid>0</gemid>
+  <holy_resist>0</holy_resist>
+  <icon>/images/icons/INV_Weapon_Rifle_04.png</icon>
+  <id>23747</id>
+  <image></image>
+  <iscrafted>1</iscrafted>
+  <ispvpvendor>0</ispvpvendor>
+  <isqfodder>0</isqfodder>
+  <isquested>0</isquested>
+  <israid>0</israid>
+  <isstatic>0</isstatic>
+  <isvendor>0</isvendor>
+  <isworld>0</isworld>
+  <itemclass>2</itemclass>
+  <itemid>23747</itemid>
+  <itemsubclass>3</itemsubclass>
+  <level>108</level>
+  <median_auc_price>750000</median_auc_price>
+  <minlevel>70</minlevel>
+  <name1>Felsteel Boomstick</name1>
+  <name2></name2>
+  <name3></name3>
+  <name4></name4>
+  <nature_resist>0</nature_resist>
+  <newest>1</newest>
+  <notes></notes>
+  <opened>0</opened>
+  <quality>3</quality>
+  <races>-1</races>
+  <randomsuf>0</randomsuf>
+  <randprop>0</randprop>
+  <recskill_amount>0</recskill_amount>
+  <recskill_skill>0</recskill_skill>
+  <req_spell>0</req_spell>
+  <reqfaction>0</reqfaction>
+  <reqfactionlvl>0</reqfactionlvl>
+  <reqpvprank>0</reqpvprank>
+  <sellprice>312067</sellprice>
+  <setid>0</setid>
+  <shadow_resist>0</shadow_resist>
+  <slot>26</slot>
+  <slots>0</slots>
+  <socket_1>0</socket_1>
+  <socket_2>0</socket_2>
+  <socket_3>0</socket_3>
+  <socketbonus>0</socketbonus>
+  <source>live</source>
+  <speed>2400</speed>
+  <spellact1>0</spellact1>
+  <spellact2>0</spellact2>
+  <spellact3>0</spellact3>
+  <spellcooldown1>-1</spellcooldown1>
+  <spellcooldown2>-1</spellcooldown2>
+  <spellcooldown3>-1</spellcooldown3>
+  <spellcoolgroup1>0</spellcoolgroup1>
+  <spellcoolgroup2>0</spellcoolgroup2>
+  <spellcoolgroup3>0</spellcoolgroup3>
+  <spellcoolgrouptime1>-1</spellcoolgrouptime1>
+  <spellcoolgrouptime2>-1</spellcoolgrouptime2>
+  <spellcoolgrouptime3>-1</spellcoolgrouptime3>
+  <spelleffect1>0</spelleffect1>
+  <spelleffect2>0</spelleffect2>
+  <spelleffect3>0</spelleffect3>
+  <stacksize>1</stacksize>
+  <startquest>0</startquest>
+  <stat10_stat>0</stat10_stat>
+  <stat10_value>0</stat10_value>
+  <stat1_stat>32</stat1_stat>
+  <stat1_value>13</stat1_value>
+  <stat2_stat>7</stat2_stat>
+  <stat2_value>12</stat2_value>
+  <stat3_stat>0</stat3_stat>
+  <stat3_value>0</stat3_value>
+  <stat4_stat>0</stat4_stat>
+  <stat4_value>0</stat4_value>
+  <stat5_stat>0</stat5_stat>
+  <stat5_value>0</stat5_value>
+  <stat6_stat>0</stat6_stat>
+  <stat6_value>0</stat6_value>
+  <stat7_stat>0</stat7_stat>
+  <stat7_value>0</stat7_value>
+  <stat8_stat>0</stat8_stat>
+  <stat8_value>0</stat8_value>
+  <stat9_stat>0</stat9_stat>
+  <stat9_value>0</stat9_value>
+  <statcount>2</statcount>
+<stats>
+  <agility>0</agility>
+  <arcane_resist>0</arcane_resist>
+  <arcanedmg>0</arcanedmg>
+  <armor>0</armor>
+  <armorpenetration>0</armorpenetration>
+  <armorpenrating>0</armorpenrating>
+  <attack>0</attack>
+  <attackpower>0</attackpower>
+  <block>0</block>
+  <critrating>13</critrating>
+  <defenserating>0</defenserating>
+  <dmg_avg>149</dmg_avg>
+  <dmg_high>194</dmg_high>
+  <dmg_low>104</dmg_low>
+  <dodgerating>0</dodgerating>
+  <dps>62.1</dps>
+  <ds>0</ds>
+  <expertiserating>0</expertiserating>
+  <fire_resist>0</fire_resist>
+  <firedmg>0</firedmg>
+  <frost_resist>0</frost_resist>
+  <frostdmg>0</frostdmg>
+  <hasterating>0</hasterating>
+  <healing>0</healing>
+  <health>0</health>
+  <healthregen>0</healthregen>
+  <hitrating>0</hitrating>
+  <intellect>0</intellect>
+  <level>108</level>
+  <mana>0</mana>
+  <manaregen>0</manaregen>
+  <meleecritrating>0</meleecritrating>
+  <meleehitrating>0</meleehitrating>
+  <modtargetresist>0</modtargetresist>
+  <nature_resist>0</nature_resist>
+  <naturedmg>0</naturedmg>
+  <parryrating>0</parryrating>
+  <rangeattack>0</rangeattack>
+  <rangecritrating>0</rangecritrating>
+  <rangehitrating>0</rangehitrating>
+  <resiliencerating>0</resiliencerating>
+  <s_blue>0</s_blue>
+  <s_meta>0</s_meta>
+  <s_red>0</s_red>
+  <s_yellow>0</s_yellow>
+  <shadow_resist>0</shadow_resist>
+  <shadowdmg>0</shadowdmg>
+  <shieldblockrating>0</shieldblockrating>
+  <slots>0</slots>
+  <speed>2400</speed>
+  <spellcritrating>0</spellcritrating>
+  <spelldmg>0</spelldmg>
+  <spelleffect1>0</spelleffect1>
+  <spelleffect2>0</spelleffect2>
+  <spelleffect3>0</spelleffect3>
+  <spellhasterating>0</spellhasterating>
+  <spellhitrating>0</spellhitrating>
+  <spellpower>0</spellpower>
+  <spirit>0</spirit>
+  <stamina>12</stamina>
+  <strength>0</strength>
+</stats>  <toolid>0</toolid>
+  <total_drops></total_drops>
+  <total_percent></total_percent>
+  <unique>0</unique>
+  <unknown_101>0</unknown_101>
+  <unknown_102>1</unknown_102>
+  <unknown_103>0</unknown_103>
+  <unknown_109>0</unknown_109>
+  <unknown_110>75</unknown_110>
+  <unknown_111>1120403456</unknown_111>
+  <unknown_112>0</unknown_112>
+  <unknown_113>0</unknown_113>
+  <unknown_114>0</unknown_114>
+  <unknown_117>0</unknown_117>
+  <unknown_119>0</unknown_119>
+  <unknown_121>0</unknown_121>
+  <unknown_124>275</unknown_124>
+  <unknown_125>-1</unknown_125>
+  <unknown_126></unknown_126>
+  <unknown_128>0</unknown_128>
+  <unknown_129></unknown_129>
+  <unknown_130></unknown_130>
+  <unknown_33></unknown_33>
+  <unknown_34></unknown_34>
+  <unknown_35></unknown_35>
+  <unknown_36></unknown_36>
+  <unknown_37></unknown_37>
+  <unknown_38></unknown_38>
+  <unknown_39>0</unknown_39>
+  <unknown_40>0</unknown_40>
+  <unknown_50>0</unknown_50>
+  <unknown_51>0</unknown_51>
+  <unknown_52>0</unknown_52>
+  <unknown_53>0</unknown_53>
+  <unknown_54>0</unknown_54>
+  <unknown_55>0</unknown_55>
+  <unknown_63>3</unknown_63>
+  <unknown_8>0</unknown_8>
+  <unknown_83>0</unknown_83>
+  <unknown_84>0</unknown_84>
+  <unknown_85>0</unknown_85>
+  <unknown_86>-1</unknown_86>
+  <unknown_87>0</unknown_87>
+  <unknown_88>-1</unknown_88>
+  <unknown_89>0</unknown_89>
+  <unknown_90>0</unknown_90>
+  <unknown_91>0</unknown_91>
+  <unknown_92>-1</unknown_92>
+  <unknown_93>0</unknown_93>
+  <unknown_94>-1</unknown_94>
+  <unknown_97>0</unknown_97>
+  <unknown_98>0</unknown_98>
+  <unknown_99>0</unknown_99>
+  <updated></updated>
+  <version>1</version>
+  <zoneid></zoneid>
+</wowitem><?xml version="1.0" encoding="UTF-8"?>
